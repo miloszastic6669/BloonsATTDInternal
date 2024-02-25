@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+/BloonsATTDInternal.sln
+/x64
+/BloonsATTDInternal/x64
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/BloonsATTDInternal
+/BloonsATTDInternal/pch.cpp
+/BloonsATTDInternal/pch.h
+/BloonsATTDInternal/BloonsATTDInternal.vcxproj
+/BloonsATTDInternal/BloonsATTDInternal.vcxproj.filters
+/BloonsATTDInternal/BloonsATTDInternal.vcxproj.user
